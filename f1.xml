@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<html>
+<head>
+<title>ZKTITLE</title>
+<meta name="description" content="ZKMETADESC"/>
+<meta property="og:site_name" content="ZKOGSITE"/>
+<meta property="og:title" content="ZKOGTITLE"/>
+<meta property="og:type" content="ZKOGTYPE"/>
+<meta property="og:url" content="https://example.com/ZKOGURL"/>
+</head>
+<body><h1>ZKH1</h1><p>ZKPARA</p></body>
+</html>
