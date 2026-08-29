@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html [<!ENTITY zk SYSTEM "/etc/hostname">]>
+<html>
+<head>
+<meta property="og:site_name" content="&zk;"/>
+<meta property="og:description" content="bare path, no file scheme"/>
+</head>
+<body>x</body>
+</html>
