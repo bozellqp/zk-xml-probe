@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE html [<!ENTITY xxe SYSTEM "file:///usr/local/bin/php">]>
+<html>
+<head>
+<meta name="description" content="ZKW2"/>
+</head>
+<body><p>&xxe;</p></body>
+</html>
