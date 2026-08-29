@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE html [<!ENTITY xxe SYSTEM "file:///etc/hostname">]>
+<html>
+<head><title>&xxe;</title></head>
+<body><p>&xxe;</p></body>
+</html>
