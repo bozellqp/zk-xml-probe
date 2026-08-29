@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [<!ENTITY xxe SYSTEM "data://text/plain;base64,AAAA">]>
+<r><meta name="description" content="ZKR7"/>&xxe;</r>
