@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE html [<!ENTITY xxe SYSTEM "file:///usr/share/misc/magic.mgc">]>
+<html>
+<head>
+<meta name="description" content="ZKW4"/>
+</head>
+<body><p>&xxe;</p></body>
+</html>
