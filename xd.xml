@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE html [<!ENTITY u "https://example.com/">]>
+<html>
+<head>
+<meta name="description" content="ZKXD"/>
+<meta property="og:image" content="&u;"/>
+</head>
+<body><p>x</p></body>
+</html>
